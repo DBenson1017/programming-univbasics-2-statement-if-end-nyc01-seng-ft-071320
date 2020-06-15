@@ -1,5 +1,5 @@
 # Write your solution here
-run_code_inside = 
+
 
 chance_of_rain = 
 .2 
