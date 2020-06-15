@@ -1,7 +1,7 @@
 # Write your solution here
 
 
-chance_of_rain = .2 
+chance_of_rain = 0.2 
 if chance_of_rain <= 0.25 
   puts "Pack a sun shelter!"
 elsif 
